@@ -1,6 +1,7 @@
-git init
+git init (cria repositorio)
 git add (tem o que coloca tds= *, e individual = nome do arquivo.txt)
-git status
-git commit -m  " " (adiciona)
-git log
-git commit -am " "
+git status(ver status)
+git commit -m  "comentario " (adiciona arquivo no reositorio)
+git log (verefica tds lteraçoes feitas)
+git commit -am " comentario" (adiciona tds arquivos adcionando msg)
+git reset HEAD +nome arquivo.txt (reseta arquivo)
