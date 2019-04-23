@@ -1,5 +1,6 @@
 git init
 git add (tem o que coloca tds= *, e individual = nome do arquivo.txt)
 git status
-git commit -m  " "
+git commit -m  " " (adiciona)
 git log
+git commit -am " "
